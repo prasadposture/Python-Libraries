@@ -5,5 +5,5 @@ This repository contains python libraries namely numpy, pandas, matplotlib and s
 [2. NumPy](https://github.com/prasadposture/Python-Libraries/tree/main/NumPy)<br>
 [3. Matplotlib](https://github.com/prasadposture/Python-Libraries/tree/main/Matplotlib)<br>
 [4. Seaborn](https://github.com/prasadposture/Python-Libraries/tree/main/Seaborn)<br>
-
+[5. Plotly](https://github.com/prasadposture/Python-Libraries/tree/main/Plotly)
 
